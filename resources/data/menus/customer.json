@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "url": "/customer",
+      "name": "Dashboard",
+      "i18n": "Dashboard",
+      "icon": "desktop"
+    },
+    {
+      "url": "/customer/enquiry",
+      "name": "Enquiry",
+      "i18n": "Enquiry",
+      "icon": "envelope-pull"
+    },
+    {
+      "url": "/customer/itinerary",
+      "name": "Itinerary",
+      "i18n": "Itinerary",
+      "icon": "save"
+    }
+  ]
+}

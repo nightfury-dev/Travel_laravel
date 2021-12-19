@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "url": "/vendor",
+      "name": "Dashboard",
+      "i18n": "Dashboard",
+      "icon": "desktop"
+    },
+    {
+      "url": "/vendor/itinerary",
+      "name": "Itinerary",
+      "i18n": "Itinerary",
+      "icon": "envelope-pull"
+    },
+    {
+      "url": "/vendor/product",
+      "name": "Product",
+      "i18n": "Product",
+      "icon": "save"
+    }
+  ]
+}

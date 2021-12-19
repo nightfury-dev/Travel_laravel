@@ -1,0 +1,8 @@
+/.idea
+/public/assets/
+/.vscode
+/config/database.php
+/vendor
+.env
+.env.backup
+node_modules

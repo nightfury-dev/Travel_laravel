@@ -1,0 +1,55 @@
+{
+  "menu": [
+    {
+      "url": "/admin",
+      "name": "Dashboard",
+      "i18n": "Dashboard",
+      "slug": "dashboard",
+      "id":"#ico",
+      "icon": "desktop",
+      "dropdown": "0"
+    },
+    {
+      "url": "/admin/enquiry",
+      "name": "Enquiry",
+      "slug": "enquiry",
+      "icon": "comments",
+      "dropdown": "0"
+    },
+    {
+      "url": "/admin/itinerary",
+      "name": "Itinerary",
+      "slug": "itinerary",
+      "icon": "globe",
+      "dropdown": "0"
+    },
+    {
+      "url": "/admin/booking",
+      "name": "Booking",
+      "slug": "Booking",
+      "icon": "credit-card-in",
+      "dropdown": "0"
+    },
+    {
+      "url": "/admin/product",
+      "name": "Products",
+      "slug": "product",
+      "icon": "gift",
+      "dropdown": "0"
+    },
+    {
+      "url": "/admin/crm",
+      "name": "CRM",
+      "slug": "crm",
+      "icon": "users",
+      "dropdown": "0"
+    },
+    {
+      "url": "/admin/settings",
+      "name": "Settings",
+      "slug": "setting",
+      "icon": "gear",
+      "dropdown": "0"
+    }
+  ]
+}
